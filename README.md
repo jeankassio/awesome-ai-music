@@ -44,8 +44,9 @@ Hosted AI music generation services. Most offer web UIs and some expose APIs.
 
 ### Free / Freemium Tiers
 
-- [Riffusion](https://riffusion.com) — Real-time spectrogram-based music generation.
 - [MusicGen Web Demo](https://huggingface.co/spaces/facebook/MusicGen) — Hugging Face Spaces demo of Meta's MusicGen.
+- [Riffusion](https://riffusion.com) — Real-time spectrogram-based music generation.
+- [Somora](https://somora.media/) — AI music and lyric generation with a browser DAW free for registered users.
 
 ---
 
